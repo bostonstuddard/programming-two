@@ -1,0 +1,3 @@
+101,John Smith,3.5
+102,Maria Lopez,3.8
+103,David Johnson,2.9
